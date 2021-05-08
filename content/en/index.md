@@ -7,19 +7,16 @@ category: ''
 
 <img src="/xthirm.png"  width="1280" height="640" alt=""/>
 
-**THIRM** is a protocol that allows users to access cryptocurrency assets between multiple blockchains . 
+**THIRM** is a protocol that allows users to access cryptocurrency assets between multiple blockchains. 
 
 ## Abstract
 
-With the increase in DEFI & lot of apps are being built on various blockchains, but these blockchains run on different codebase which makes using the apps from blockchain A impossible on blockchain B
+With the rise of DEFI many dApps are being built on blockchains, but these blockchains run on different codebase which makes using the Apps from blockchain A impossible on blockchain B. While many dApps are being ported accross blockchains, they are limited and might not function the same way as intended on the main blockchain.
 
-While lot of DAPPs are being ported accross blockchains but they are limited and might not function the same way as intended on the parent blockchain.
+Some blockchians don't support dApps at all (Bitcoin and Litecoin are good examples).
 
-Some blockchians don't support DAPPS as all ( BITCOIN and LITECOIN are good examples), but they do have a store of value and easy of integration and are accepted all over internet as a mode of payment.
+So what if a Bitcoin user wants to use a DEX (decentralized exchange) on Ethereum? How will he use these dApp? He needs a service that will allow him to use his Bitcoin on any other blockchain.
 
-So what if a BITCOIN User wants to use a DEX ( decenterlised Exchnages ) on ethereum ? how will he use these app ? he needs a service which will allow him to use his BITCOIN on any other blockchain apps.
-
-
-Here comes THIRM, a Crosschain Bridge that allows you to use you BITCOIN right on Ethereum. But this is something simple THIRM allows so many blockchains to connect with each other.
+Here comes THIRM, a Crosschain Bridge that allows many blockchains to connect each other.
 
 
